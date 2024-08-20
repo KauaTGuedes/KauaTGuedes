@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">##Sobre mim<br><br>🔍 Estou à procura de oportunidades como Estagiário ou Trainee.<br>🎓 Estudando Análise e Desenvolvimento de Sistemas na Fatec Santana de Parnaíba.<br>💡 Explorando novas tecnologias e aplicando-as em projetos.<br> 🛠️ Estou em constante aprendizado em Java no Back-end e JavaScript e React no Front-end.</h4>
+<h4 align="left">Sobre mim<br><br>🔍 Estou à procura de oportunidades como Estagiário ou Trainee.<br>🎓 Estudando Análise e Desenvolvimento de Sistemas na Fatec Santana de Parnaíba.<br>💡 Explorando novas tecnologias e aplicando-as em projetos.<br> 🛠️ Estou em constante aprendizado em Java no Back-end e JavaScript e React no Front-end.</h4>
 
 ###
 
